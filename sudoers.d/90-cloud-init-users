@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.2-36-g059d049c-0ubuntu2~16.04.1 on Tue, 26 Nov 2019 12:53:57 +0000
+
+# User rules for devops
+devops ALL=(ALL) NOPASSWD:ALL
